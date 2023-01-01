@@ -5,7 +5,7 @@ I'm currently learning Kafka to grow my data engineering skills and dive deeper 
 - The resources I am referencing to learn.
 - Summaries of my learnings.
 - Code with documentation.
-- Recording of my livestream.
+- Recording of my live stream.
 
 *Please note that this shouldn't be considered a tutorial on Kafka, but rather documenting how I approach learning new technologies. There may be mistakes or misinterpretations, but if it's brought to my attention I will work to rectify it in this repo.* 
 
@@ -14,20 +14,20 @@ In this section I will walk you through how I approach learning a new technology
 1. Watching a high level video that is short and highlights the main premise of the technology.
 2. Watching a more in depth video on the technology.
 
-*Note: Watching the intro videos are the most important steps as it primes myou for what's worth focusing on when you start reviewing more in-depth content.*
+*Note: Watching the intro videos are the most important steps as it primes you for what's worth focusing on when you start reviewing more in-depth content.*
 
 3. Reading a blog or article that starts to go into the nuances of the technology.
 4. Skimming a textbook on the technology to have a foundational grasp and know where to reference later on.
-5. Reading the original paper of technology, with an emphasis on understanding 1) the technical context of the time, 2) the problem statement that the authors are adressing, and 3) how this technology is uniquely positioned to solve the problem statement.
+5. Reading the original paper of technology, with an emphasis on understanding 1) the technical context of the time, 2) the problem statement that the authors are addressing, and 3) how this technology is uniquely positioned to solve the problem statement.
 6. Skimming the technology's official documentation with emphasis on the "getting started" section.
 7. Implementing a hello world project with the technology.
 8. Implementing a guided project with the technology.
-9. Implementing a perasonal project with the technology.
+9. Implementing a personal project with the technology.
 10. Going back to the textbook on the technology and reading through with the context of building with the tool.
 
 ## Kafka Learning Resources
 **Intro Videos**
-- [IBM Techlogy - What is Kafka?](https://youtu.be/aj9CDZm0Glc)
+- [IBM Technology - What is Kafka?](https://youtu.be/aj9CDZm0Glc)
 - [Finematics - Apache Kafka Explained (Comprehensive Overview)](https://youtu.be/JalUUBKdcA0)
 
 **Intro Blogs**
